@@ -1,0 +1,17 @@
+# Practica 1
+Analizar y diseñar la solución para el siguiente problema:
+Definición: ¿Que tengo que hacer para ir al cine a ver Dr Strange?
+
+# SOLUCION 
+
+1.Definir un día y horario para ir a ver la película
+2.Buscar los cines mas cercanos a mi 
+3.Buscar si hay una función disponible para el día y horario elegido
+4.Si es el caso, proceder a comprar el boleto 
+5.En caso contrario buscar una función en otro cine
+6.Finalmente ir al cine 
+7.Comprar snacks
+8. Dirigirme a la sala donde se proyectara la funcion.
+9. Buscar asiento 
+10. Ver pelicula
+
